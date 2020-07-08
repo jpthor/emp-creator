@@ -1,4 +1,4 @@
-## PERLINX DAPP
+## EMP-CREATOR DAPP
 
 ### `yarn start`
 

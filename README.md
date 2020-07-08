@@ -1,5 +1,7 @@
 ## EMP-CREATOR DAPP
 
+Deploy new expiring multi-party contracts. 
+
 ### `yarn start`
 
 Runs the app in the development mode.<br />
